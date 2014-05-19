@@ -18,6 +18,17 @@
  
  
    <servlet>
+    <servlet-name>CreateDeals</servlet-name>
+    <servlet-class>com.CreateDeals</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>CreateDeals</servlet-name>
+    <url-pattern>/CreateDeals</url-pattern>
+  </servlet-mapping>
+ 
+ 
+   <servlet>
     <servlet-name>GetInfo</servlet-name>
     <servlet-class>com.GetInfo</servlet-class>
   </servlet>
@@ -27,6 +38,15 @@
     <url-pattern>/GetInfo</url-pattern>
   </servlet-mapping>
   
+   <servlet>
+    <servlet-name>GetDeals</servlet-name>
+    <servlet-class>com.GetDeals</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>GetDeals</servlet-name>
+    <url-pattern>/GetDeals</url-pattern>
+  </servlet-mapping> 
   
    <servlet>
     <servlet-name>CreateDatabase</servlet-name>
@@ -37,6 +57,17 @@
     <servlet-name>CreateDatabase</servlet-name>
     <url-pattern>/CreateDatabase</url-pattern>
   </servlet-mapping> 
+  
+   <servlet>
+    <servlet-name>MyJSon</servlet-name>
+    <servlet-class>com.MyJSon</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>MyJSon</servlet-name>
+    <url-pattern>/json</url-pattern>
+  </servlet-mapping> 
+  
   
   <!-- Default page to serve -->
   <welcome-file-list>

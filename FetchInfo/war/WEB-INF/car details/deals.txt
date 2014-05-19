@@ -1,0 +1,446 @@
+'Type':'Nissan Versa or Similar', 'Economy' Charge: '$30'/day
+'Type':'Nissan Versa or Similar', 'Economy' Charge: '$32'/day
+'Type':'Nissan Versa or Similar', 'Economy' Charge: '$34'/day
+'Type':'Nissan Sentra or Similar', 'Compact' Charge: '$34'/day
+'Type':'Dodge Avenger or Similar', 'Intermediate' Charge: '$37'/day
+'Type':'Nissan Sentra or Similar', 'Compact' Charge: '$38'/day
+'Type':'Nissan Sentra or Similar', 'Compact' Charge: '$38'/day
+'Type':'Ford Mustang or Similar', 'Standard' Charge: '$41'/day
+'Type':'Mitsubishi Galant or Similar', 'Standard' Charge: '$41'/day
+'Type':'Nissan Altima or Similar', 'Fullsize' Charge: '$42'/day
+'Type':'Dodge Avenger or Similar', 'Intermediate' Charge: '$43'/day
+'Type':'Ford F150 Xlt or Similar', 'Standard Pickup' Charge: '$43'/day
+'Type':'Dodge Avenger or Similar', 'Intermediate' Charge: '$44'/day
+'Type':'Ford F150 Xlt or Similar', 'Standard Pickup' Charge: '$48'/day
+'Type':'Ford Mustang or Similar', 'Standard' Charge: '$48'/day
+'Type':'Mitsubishi Galant or Similar', 'Standard' Charge: '$48'/day
+'Type':'Ford F150 Xlt or Similar', 'Standard Pickup' Charge: '$48'/day
+'Type':'Mitsubishi Galant or Similar', 'Standard' Charge: '$48'/day
+'Type':'Ford Mustang or Similar', 'Standard' Charge: '$48'/day
+'Type':'Nissan Altima or Similar', 'Fullsize' Charge: '$53'/day
+'Type':'Nissan Altima or Similar', 'Fullsize' Charge: '$54'/day
+'Type':'Jeep Grand Cherokee Laredo or Similar', 'Standard SUV' Charge: '$58'/day
+'Type':'Jeep Grand Cherokee Laredo or Similar', 'Standard SUV' Charge: '$58'/day
+'Type':'Jeep Grand Cherokee Laredo or Similar', 'Standard SUV' Charge: '$58'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$60'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$60'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$60'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$60'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$60'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$60'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$60'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$60'/day
+'Type':'Nissan Versa,  Toyota Yaris or Similar' Charge: '$60'/day
+'Type':'Nissan Versa,  Toyota Yaris or Similar' Charge: '$60'/day
+'Type':'Nissan Versa,  Toyota Yaris or Similar' Charge: '$60'/day
+'Type':'Nissan Versa,  Toyota Yaris or Similar' Charge: '$60'/day
+'Type':'Nissan Versa,  Toyota Yaris or Similar' Charge: '$60'/day
+'Type':'Nissan Versa,  Toyota Yaris or Similar' Charge: '$60'/day
+'Type':'Nissan Versa,  Toyota Yaris or Similar' Charge: '$60'/day
+'Type':'Nissan Versa,  Toyota Yaris or Similar' Charge: '$60'/day
+'Type':'Nissan Versa or Similar', 'Compact' Charge: '$61'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$61'/day
+'Type':'Nissan Versa or Similar', 'Compact' Charge: '$61'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$61'/day
+'Type':'Nissan Versa or Similar', 'Compact' Charge: '$61'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$61'/day
+'Type':'Compact Car or Larger', 'Special Special' Charge: '$62'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$62'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$62'/day
+'Type':'Compact Car or Larger', 'Special Special' Charge: '$62'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$62'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$62'/day
+'Type':'Compact Car or Larger', 'Special Special' Charge: '$62'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$62'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$62'/day
+'Type':'Compact Car or Larger', 'Special Special' Charge: '$62'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$62'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$62'/day
+'Type':'Wild Card -we Pick The Car   compact   or Larger', 'Special Special' Charge: '$62'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$62'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$62'/day
+'Type':'Compact Car or Larger', 'Special Special' Charge: '$62'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$62'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$62'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$62'/day
+'Type':'Hyundai Accent or Similar', 'Economy' Charge: '$62'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$62'/day
+'Type':'Hyundai Accent or Similar', 'Economy' Charge: '$62'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$62'/day
+'Type':'Hyundai Accent or Similar', 'Economy' Charge: '$62'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$62'/day
+'Type':'Toyota Corolla,  Nissan Sentra or Similar' Charge: '$63'/day
+'Type':'Toyota Corolla,  Nissan Sentra or Similar' Charge: '$63'/day
+'Type':'Toyota Corolla,  Nissan Sentra or Similar' Charge: '$63'/day
+'Type':'Toyota Corolla,  Nissan Sentra or Similar' Charge: '$63'/day
+'Type':'Toyota Corolla,  Nissan Sentra or Similar' Charge: '$63'/day
+'Type':'Toyota Corolla,  Nissan Sentra or Similar' Charge: '$63'/day
+'Type':'Toyota Corolla,  Nissan Sentra or Similar' Charge: '$63'/day
+'Type':'Toyota Corolla,  Nissan Sentra or Similar' Charge: '$63'/day
+'Type':'Corolla or Similar', 'Intermediate' Charge: '$64'/day
+'Type':'Corolla or Similar', 'Intermediate' Charge: '$64'/day
+'Type':'Corolla or Similar', 'Intermediate' Charge: '$64'/day
+'Type':'Dodge Avenger or Similar', 'Intermediate' Charge: '$65'/day
+'Type':'Dodge Avenger or Similar', 'Intermediate' Charge: '$65'/day
+'Type':'Dodge Avenger or Similar', 'Intermediate' Charge: '$65'/day
+'Type':'Dodge Avenger or Similar', 'Intermediate' Charge: '$65'/day
+'Type':'Dodge Avenger or Similar', 'Intermediate' Charge: '$65'/day
+'Type':'Dodge Avenger or Similar', 'Intermediate' Charge: '$65'/day
+'Type':'Dodge Avenger or Similar', 'Intermediate' Charge: '$65'/day
+'Type':'Dodge Avenger or Similar', 'Intermediate' Charge: '$65'/day
+'Type':'Dodge Avenger or Similar', 'Intermediate' Charge: '$65'/day
+'Type':'Nissan Versa,  Toyota Yaris or Similar' Charge: '$66'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$67'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$67'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$67'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$67'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$67'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$67'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$67'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$67'/day
+'Type':'Chevy Impala,  Nissan Altima or Similar' Charge: '$68'/day
+'Type':'Chevy Impala,  Nissan Altima or Similar' Charge: '$68'/day
+'Type':'Chevy Impala,  Nissan Altima or Similar' Charge: '$68'/day
+'Type':'Chevy Impala,  Nissan Altima or Similar' Charge: '$68'/day
+'Type':'Chevy Impala,  Nissan Altima or Similar' Charge: '$68'/day
+'Type':'Chevy Impala,  Nissan Altima or Similar' Charge: '$68'/day
+'Type':'Chevy Impala,  Nissan Altima or Similar' Charge: '$68'/day
+'Type':'Chevy Impala,  Nissan Altima or Similar' Charge: '$68'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$68'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$68'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$68'/day
+'Type':'Nissan Altima or Similar', 'Fullsize' Charge: '$69'/day
+'Type':'Mitsubishi Galant or Similar', 'Standard' Charge: '$69'/day
+'Type':'Nissan Altima or Similar', 'Fullsize' Charge: '$69'/day
+'Type':'Mitsubishi Galant or Similar', 'Standard' Charge: '$69'/day
+'Type':'Nissan Altima or Similar', 'Fullsize' Charge: '$69'/day
+'Type':'Mitsubishi Galant or Similar', 'Standard' Charge: '$69'/day
+'Type':'Nissan Altima or Similar', 'Fullsize' Charge: '$69'/day
+'Type':'Mitsubishi Galant or Similar', 'Standard' Charge: '$69'/day
+'Type':'Nissan Altima or Similar', 'Fullsize' Charge: '$69'/day
+'Type':'Mitsubishi Galant or Similar', 'Standard' Charge: '$69'/day
+'Type':'Nissan Altima or Similar', 'Fullsize' Charge: '$69'/day
+'Type':'Mitsubishi Galant or Similar', 'Standard' Charge: '$69'/day
+'Type':'Chevrolet Impala Ltd or Similar', 'Full Size' Charge: '$69'/day
+'Type':'Chrysler 200 Sedan or Similar', 'Standard' Charge: '$69'/day
+'Type':'Chevrolet Impala Ltd or Similar', 'Full Size' Charge: '$69'/day
+'Type':'Chrysler 200 Sedan or Similar', 'Standard' Charge: '$69'/day
+'Type':'Chevrolet Impala Ltd or Similar', 'Full Size' Charge: '$69'/day
+'Type':'Chrysler 200 Sedan or Similar', 'Standard' Charge: '$69'/day
+'Type':'Toyota Corolla,  Nissan Sentra or Similar' Charge: '$70'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$74'/day
+'Type':'Nissan Versa or Similar', 'Compact' Charge: '$72'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$72'/day
+'Type':'Nissan Versa or Similar', 'Compact' Charge: '$72'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$72'/day
+'Type':'Nissan Versa or Similar', 'Compact' Charge: '$72'/day
+'Type':'Chevrolet Spark or Similar', 'Economy' Charge: '$72'/day
+'Type':'Dodge Grand Caravan or Similar', 'Mini Van' Charge: '$78'/day
+'Type':'Ford Expedition or Similar', 'Fullsize SUV' Charge: '$78'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$78'/day
+'Type':'Dodge Grand Caravan or Similar', 'Mini Van' Charge: '$78'/day
+'Type':'Dodge Grand Caravan or Similar', 'Mini Van' Charge: '$78'/day
+'Type':'Ford Expedition or Similar', 'Fullsize SUV' Charge: '$78'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$74'/day
+'Type':'Hyundai Accent or Similar', 'Economy' Charge: '$74'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$74'/day
+'Type':'Hyundai Accent or Similar', 'Economy' Charge: '$74'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$74'/day
+'Type':'Hyundai Accent or Similar', 'Economy' Charge: '$74'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$74'/day
+'Type':'Hyundai Accent or Similar', 'Economy' Charge: '$74'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$74'/day
+'Type':'Hyundai Accent or Similar', 'Economy' Charge: '$74'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$74'/day
+'Type':'Hyundai Accent or Similar', 'Economy' Charge: '$74'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$74'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$75'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$75'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$75'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$75'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$75'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$75'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$75'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$75'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$75'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$75'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$75'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$75'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$75'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$75'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$75'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$75'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$75'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$75'/day
+'Type':'Corolla or Similar', 'Intermediate' Charge: '$75'/day
+'Type':'Corolla or Similar', 'Intermediate' Charge: '$75'/day
+'Type':'Corolla or Similar', 'Intermediate' Charge: '$75'/day
+'Type':'Chevrolet Cruze or Similar', 'Intermediate' Charge: '$77'/day
+'Type':'Chevrolet Cruze or Similar', 'Intermediate' Charge: '$77'/day
+'Type':'Chevrolet Cruze or Similar', 'Intermediate' Charge: '$77'/day
+'Type':'Chevrolet Cruze or Similar', 'Intermediate' Charge: '$77'/day
+'Type':'Chevrolet Cruze or Similar', 'Intermediate' Charge: '$77'/day
+'Type':'Chevrolet Cruze or Similar', 'Intermediate' Charge: '$77'/day
+'Type':'Toyota Corolla or Similar', 'Intermediate' Charge: '$78'/day
+'Type':'Toyota Corolla or Similar', 'Intermediate' Charge: '$78'/day
+'Type':'Toyota Corolla or Similar', 'Intermediate' Charge: '$78'/day
+'Type':'Toyota Corolla or Similar', 'Intermediate' Charge: '$78'/day
+'Type':'Toyota Corolla or Similar', 'Intermediate' Charge: '$78'/day
+'Type':'Toyota Corolla or Similar', 'Intermediate' Charge: '$78'/day
+'Type':'Toyota Corolla or Similar', 'Intermediate' Charge: '$78'/day
+'Type':'Toyota Corolla or Similar', 'Intermediate' Charge: '$78'/day
+'Type':'Toyota Corolla or Similar', 'Intermediate' Charge: '$78'/day
+'Type':'Chevy Impala,  Nissan Altima or Similar' Charge: '$78'/day
+'Type':'Ford Expedition or Similar', 'Fullsize SUV' Charge: '$83'/day
+'Type':'Fusion or Similar', 'Full Size' Charge: '$79'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$79'/day
+'Type':'Fusion or Similar', 'Full Size' Charge: '$79'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$79'/day
+'Type':'Fusion or Similar', 'Full Size' Charge: '$79'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$79'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$81'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$81'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$81'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$81'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$81'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$81'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$81'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$81'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$81'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$81'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$81'/day
+'Type':'Chrysler 200 or Similar', 'Standard' Charge: '$81'/day
+'Type':'Nissan Altima 2 Door or Similar', 'Standard' Charge: '$82'/day
+'Type':'Nissan Altima 2 Door or Similar', 'Standard' Charge: '$82'/day
+'Type':'Nissan Altima 2 Door or Similar', 'Standard' Charge: '$82'/day
+'Type':'Nissan Altima 2 Door or Similar', 'Standard' Charge: '$82'/day
+'Type':'Nissan Altima 2 Door or Similar', 'Standard' Charge: '$82'/day
+'Type':'Nissan Altima 2 Door or Similar', 'Standard' Charge: '$82'/day
+'Type':'Nissan Altima 2 Door or Similar', 'Standard' Charge: '$82'/day
+'Type':'Nissan Altima 2 Door or Similar', 'Standard' Charge: '$82'/day
+'Type':'Nissan Altima 2 Door or Similar', 'Standard' Charge: '$82'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$72'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$72'/day
+'Type':'Ford E-350 or Similar', 'Standard Van' Charge: '$88'/day
+'Type':'Ford E-350 or Similar', 'Standard Van' Charge: '$88'/day
+'Type':'Ford E-350 or Similar', 'Standard Van' Charge: '$88'/day
+'Type':'Toyota Corolla or Similar', 'Intermediate' Charge: '$73'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$85'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$85'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$85'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$85'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$85'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$85'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$85'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$85'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$85'/day
+'Type':'Cadillac Cts,  Lincoln Mkz or Similar' Charge: '$90'/day
+'Type':'Nissan Altima 2 Door or Similar', 'Standard' Charge: '$80'/day
+'Type':'Chevrolet Express or Similar', 'Fullsize Van' Charge: '$98'/day
+'Type':'Chevrolet Express or Similar', 'Fullsize Van' Charge: '$98'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$98'/day
+'Type':'Chevrolet Express or Similar', 'Fullsize Van' Charge: '$98'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$82'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$95'/day
+'Type':'', 'Special Passenger Van' Charge: '$99'/day
+'Type':'', 'Special Passenger Van' Charge: '$99'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$109'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$109'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$109'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$109'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$109'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$109'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$109'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$109'/day
+'Type':'Toyota Rav4 or Similar', 'Intermediate SUV' Charge: '$99'/day
+'Type':'Maxima or Similar', 'Premium' Charge: '$110'/day
+'Type':'Maxima or Similar', 'Premium' Charge: '$110'/day
+'Type':'Maxima or Similar', 'Premium' Charge: '$110'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$111'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$111'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$111'/day
+'Type':'Kia Rio or Similar', 'Economy' Charge: '$101'/day
+'Type':'Chrysler 300 or Similar', 'Premium' Charge: '$112'/day
+'Type':'Chrysler 300 or Similar', 'Premium' Charge: '$112'/day
+'Type':'Chrysler 300 or Similar', 'Premium' Charge: '$112'/day
+'Type':'Chrysler 300 or Similar', 'Premium' Charge: '$112'/day
+'Type':'Chrysler 300 or Similar', 'Premium' Charge: '$112'/day
+'Type':'Chrysler 300 or Similar', 'Premium' Charge: '$112'/day
+'Type':'Ford Focus or Similar', 'Compact' Charge: '$102'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$116'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$116'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$116'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$116'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$116'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$116'/day
+'Type':'Ford Taurus Ltd Fwd or Similar', 'Premium' Charge: '$116'/day
+'Type':'Ford Taurus Ltd Fwd or Similar', 'Premium' Charge: '$116'/day
+'Type':'Ford Taurus Ltd Fwd or Similar', 'Premium' Charge: '$116'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$117'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$117'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$117'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$117'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$117'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$117'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$117'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$117'/day
+'Type':'Toyota Corolla or Similar', 'Intermediate' Charge: '$106'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$105'/day
+'Type':'Cadillac Cts,  Lincoln Mkz or Similar' Charge: '$120'/day
+'Type':'Cadillac Cts,  Lincoln Mkz or Similar' Charge: '$120'/day
+'Type':'Cadillac Cts,  Lincoln Mkz or Similar' Charge: '$120'/day
+'Type':'Cadillac Cts,  Lincoln Mkz or Similar' Charge: '$120'/day
+'Type':'Ford Escape,  Jeep Liberty or Similar' Charge: '$121'/day
+'Type':'Ford Escape,  Jeep Liberty or Similar' Charge: '$121'/day
+'Type':'Ford Escape,  Jeep Liberty or Similar' Charge: '$121'/day
+'Type':'Ford Escape,  Jeep Liberty or Similar' Charge: '$121'/day
+'Type':'Ford Escape,  Jeep Liberty or Similar' Charge: '$126'/day
+'Type':'Ford Escape,  Jeep Liberty or Similar' Charge: '$126'/day
+'Type':'Ford Escape,  Jeep Liberty or Similar' Charge: '$126'/day
+'Type':'Ford Escape,  Jeep Liberty or Similar' Charge: '$126'/day
+'Type':'Chevrolet Impala or Similar', 'Full Size' Charge: '$114'/day
+'Type':'Nissan Altima 2 Door or Similar', 'Standard' Charge: '$114'/day
+'Type':'Rav4 Sport or Similar', 'Intermediate SUV' Charge: '$127'/day
+'Type':'Rav4 Sport or Similar', 'Intermediate SUV' Charge: '$127'/day
+'Type':'Rav4 Sport or Similar', 'Intermediate SUV' Charge: '$127'/day
+'Type':'Ford Escape 2wd or Similar', 'Intermediate SUV' Charge: '$130'/day
+'Type':'Ford Escape 2wd or Similar', 'Intermediate SUV' Charge: '$130'/day
+'Type':'Ford Escape 2wd or Similar', 'Intermediate SUV' Charge: '$130'/day
+'Type':'Rav4 Sport or Similar', 'Intermediate SUV' Charge: '$131'/day
+'Type':'Rav4 Sport or Similar', 'Intermediate SUV' Charge: '$131'/day
+'Type':'Rav4 Sport or Similar', 'Intermediate SUV' Charge: '$131'/day
+'Type':'Ford Escape or Similar', 'Midsize SUV' Charge: '$132'/day
+'Type':'Ford Escape or Similar', 'Midsize SUV' Charge: '$132'/day
+'Type':'Ford Escape or Similar', 'Midsize SUV' Charge: '$132'/day
+'Type':'Ford Escape or Similar', 'Midsize SUV' Charge: '$132'/day
+'Type':'Ford Escape or Similar', 'Midsize SUV' Charge: '$132'/day
+'Type':'Ford Escape or Similar', 'Midsize SUV' Charge: '$132'/day
+'Type':'Ford Escape or Similar', 'Intermediate SUV' Charge: '$132'/day
+'Type':'Ford Escape or Similar', 'Intermediate SUV' Charge: '$132'/day
+'Type':'Ford Escape or Similar', 'Intermediate SUV' Charge: '$132'/day
+'Type':'Ford Escape or Similar', 'Intermediate SUV' Charge: '$132'/day
+'Type':'Ford Escape or Similar', 'Intermediate SUV' Charge: '$132'/day
+'Type':'Ford Escape or Similar', 'Intermediate SUV' Charge: '$132'/day
+'Type':'Nissan Maxima or Similar', 'Premium' Charge: '$120'/day
+'Type':'Ford Escape,  Jeep Liberty or Similar' Charge: '$134'/day
+'Type':'Jeep Grand Cherokee,  or Similar' Charge: '$136'/day
+'Type':'Jeep Grand Cherokee,  or Similar' Charge: '$136'/day
+'Type':'Jeep Grand Cherokee,  or Similar' Charge: '$136'/day
+'Type':'Jeep Grand Cherokee,  or Similar' Charge: '$136'/day
+'Type':'Jeep Grand Cherokee,  or Similar' Charge: '$136'/day
+'Type':'Jeep Grand Cherokee,  or Similar' Charge: '$136'/day
+'Type':'Jeep Grand Cherokee,  or Similar' Charge: '$136'/day
+'Type':'Jeep Grand Cherokee,  or Similar' Charge: '$136'/day
+'Type':'Jeep Grand Cherokee,  or Similar' Charge: '$136'/day
+'Type':'Santa Fe or Similar', 'Standard SUV' Charge: '$137'/day
+'Type':'Santa Fe or Similar', 'Standard SUV' Charge: '$137'/day
+'Type':'Santa Fe or Similar', 'Standard SUV' Charge: '$137'/day
+'Type':'Cadillac Cts,  Lincoln Mkz or Similar' Charge: '$139'/day
+'Type':'Cadillac Cts,  Lincoln Mkz or Similar' Charge: '$139'/day
+'Type':'Cadillac Cts,  Lincoln Mkz or Similar' Charge: '$139'/day
+'Type':'Cadillac Cts,  Lincoln Mkz or Similar' Charge: '$139'/day
+'Type':'Ford Edge 2wd or Similar', 'Standard SUV' Charge: '$140'/day
+'Type':'Ford Edge 2wd or Similar', 'Standard SUV' Charge: '$140'/day
+'Type':'Ford Edge 2wd or Similar', 'Standard SUV' Charge: '$140'/day
+'Type':'Santa Fe or Similar', 'Standard SUV' Charge: '$141'/day
+'Type':'Santa Fe or Similar', 'Standard SUV' Charge: '$141'/day
+'Type':'Santa Fe or Similar', 'Standard SUV' Charge: '$141'/day
+'Type':'Jeep Grand Cherokee Laredo or Similar', 'Standard SUV' Charge: '$142'/day
+'Type':'Jeep Grand Cherokee Laredo or Similar', 'Standard SUV' Charge: '$142'/day
+'Type':'Jeep Grand Cherokee Laredo or Similar', 'Standard SUV' Charge: '$142'/day
+'Type':'Jeep Grand Cherokee Laredo or Similar', 'Standard SUV' Charge: '$142'/day
+'Type':'Jeep Grand Cherokee Laredo or Similar', 'Standard SUV' Charge: '$142'/day
+'Type':'Jeep Grand Cherokee Laredo or Similar', 'Standard SUV' Charge: '$142'/day
+'Type':'Ford Edge or Similar', 'Standard SUV' Charge: '$142'/day
+'Type':'Ford Edge or Similar', 'Standard SUV' Charge: '$142'/day
+'Type':'Ford Edge or Similar', 'Standard SUV' Charge: '$142'/day
+'Type':'Ford Edge or Similar', 'Standard SUV' Charge: '$142'/day
+'Type':'Ford Edge or Similar', 'Standard SUV' Charge: '$142'/day
+'Type':'Ford Edge or Similar', 'Standard SUV' Charge: '$142'/day
+'Type':'Fusion or Similar', 'Full Size' Charge: '$149'/day
+'Type':'Fusion or Similar', 'Full Size' Charge: '$149'/day
+'Type':'Fusion or Similar', 'Full Size' Charge: '$149'/day
+'Type':'Chevrolet Equinox or Similar', 'Standard SUV' Charge: '$149'/day
+'Type':'Chevrolet Equinox or Similar', 'Standard SUV' Charge: '$149'/day
+'Type':'Chevrolet Equinox or Similar', 'Standard SUV' Charge: '$149'/day
+'Type':'Chevrolet Equinox or Similar', 'Standard SUV' Charge: '$149'/day
+'Type':'Chevrolet Equinox or Similar', 'Standard SUV' Charge: '$149'/day
+'Type':'Chevrolet Equinox or Similar', 'Standard SUV' Charge: '$149'/day
+'Type':'Chevrolet Equinox or Similar', 'Standard SUV' Charge: '$149'/day
+'Type':'Chevrolet Equinox or Similar', 'Standard SUV' Charge: '$149'/day
+'Type':'Ford Explorer 2wd or Similar', 'Standard Elite SUV' Charge: '$150'/day
+'Type':'Ford Explorer 2wd or Similar', 'Standard Elite SUV' Charge: '$150'/day
+'Type':'Ford Explorer 2wd or Similar', 'Standard Elite SUV' Charge: '$150'/day
+'Type':'Chevrolet Traverse or Similar', 'Standard Elite SUV' Charge: '$152'/day
+'Type':'Chevrolet Traverse or Similar', 'Standard Elite SUV' Charge: '$152'/day
+'Type':'Chevrolet Traverse or Similar', 'Standard Elite SUV' Charge: '$152'/day
+'Type':'Chevrolet Traverse or Similar', 'Standard Elite SUV' Charge: '$152'/day
+'Type':'Chevrolet Traverse or Similar', 'Standard Elite SUV' Charge: '$152'/day
+'Type':'Chevrolet Traverse or Similar', 'Standard Elite SUV' Charge: '$152'/day
+'Type':'Toyota Rav4 or Similar', 'Intermediate SUV' Charge: '$139'/day
+'Type':'Lincoln Mks or Similar', 'Luxury' Charge: '$157'/day
+'Type':'Lincoln Mks or Similar', 'Luxury' Charge: '$157'/day
+'Type':'Lincoln Mks or Similar', 'Luxury' Charge: '$157'/day
+'Type':'Lincoln Mks or Similar', 'Luxury' Charge: '$157'/day
+'Type':'Lincoln Mks or Similar', 'Luxury' Charge: '$157'/day
+'Type':'Lincoln Mks or Similar', 'Luxury' Charge: '$157'/day
+'Type':'Gmc Yukon,  Chevy Tahoe Charge: '$161'/day
+'Type':'Chevrolet Equinox or Similar', 'Standard SUV' Charge: '$149'/day
+'Type':'Toyota Rav4 or Similar', 'Intermediate SUV' Charge: '$166'/day
+'Type':'Toyota Rav4 or Similar', 'Intermediate SUV' Charge: '$166'/day
+'Type':'Toyota Rav4 or Similar', 'Intermediate SUV' Charge: '$166'/day
+'Type':'Toyota Rav4 or Similar', 'Intermediate SUV' Charge: '$166'/day
+'Type':'Toyota Rav4 or Similar', 'Intermediate SUV' Charge: '$166'/day
+'Type':'Toyota Rav4 or Similar', 'Intermediate SUV' Charge: '$166'/day
+'Type':'Toyota Rav4 or Similar', 'Intermediate SUV' Charge: '$166'/day
+'Type':'Toyota Rav4 or Similar', 'Intermediate SUV' Charge: '$166'/day
+'Type':'Lincoln Mks Fwd or Similar', 'Luxury' Charge: '$167'/day
+'Type':'Lincoln Mks Fwd or Similar', 'Luxury' Charge: '$167'/day
+'Type':'Lincoln Mks Fwd or Similar', 'Luxury' Charge: '$167'/day
+'Type':'Chevrolet Equinox or Similar', 'Standard SUV' Charge: '$149'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$168'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$168'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$168'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$168'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$168'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$168'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$168'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$168'/day
+'Type':'Dodge Grand Caravan or Similar', 'Mini Van' Charge: '$197'/day
+'Type':'Dodge Grand Caravan or Similar', 'Mini Van' Charge: '$197'/day
+'Type':'Dodge Grand Caravan or Similar', 'Mini Van' Charge: '$197'/day
+'Type':'Dodge Grand Caravan or Similar', 'Mini Van' Charge: '$201'/day
+'Type':'Dodge Grand Caravan or Similar', 'Mini Van' Charge: '$201'/day
+'Type':'Dodge Grand Caravan or Similar', 'Mini Van' Charge: '$201'/day
+'Type':'Chrysler Town And Country,  or Similar' Charge: '$202'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$209'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$209'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$209'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$209'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$209'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$209'/day
+'Type':'Buick Lacrosse or Similar', 'Luxury' Charge: '$192'/day
+'Type':'Ford Expedition 4wd 4dr or Similar', 'Full Size SUV' Charge: '$279'/day
+'Type':'Chevrolet Tahoe or Similar', 'Full Size SUV' Charge: '$279'/day
+'Type':'Chevrolet Tahoe or Similar', 'Full Size SUV' Charge: '$279'/day
+'Type':'Ford Expedition 4wd 4dr or Similar', 'Full Size SUV' Charge: '$279'/day
+'Type':'Chevrolet Tahoe or Similar', 'Full Size SUV' Charge: '$279'/day
+'Type':'Chevrolet Tahoe or Similar', 'Full Size SUV' Charge: '$279'/day
+'Type':'Ford Expedition 4wd 4dr or Similar', 'Full Size SUV' Charge: '$279'/day
+'Type':'Chevrolet Tahoe or Similar', 'Full Size SUV' Charge: '$279'/day
+'Type':'Ford E350 or Similar', 'Full Size Van' Charge: '$299'/day
+'Type':'Ford E350 or Similar', 'Full Size Van' Charge: '$299'/day
+'Type':'Ford E350 or Similar', 'Full Size Van' Charge: '$299'/day
+'Type':'Ford E350 or Similar', 'Full Size Van' Charge: '$299'/day
+'Type':'Ford E350 or Similar', 'Full Size Van' Charge: '$299'/day
+'Type':'Ford Expedition El 4wd or Similar', 'Premium SUV' Charge: '$302'/day
+'Type':'Chevrolet Suburban or Similar', 'Premium SUV' Charge: '$302'/day
+'Type':'Chevrolet Suburban or Similar', 'Premium SUV' Charge: '$302'/day
+'Type':'Ford Expedition El 4wd or Similar', 'Premium SUV' Charge: '$302'/day
+'Type':'Chevrolet Suburban or Similar', 'Premium SUV' Charge: '$302'/day
+'Type':'Chevrolet Suburban or Similar', 'Premium SUV' Charge: '$302'/day
+'Type':'Ford Expedition El 4wd or Similar', 'Premium SUV' Charge: '$302'/day
+'Type':'Chevrolet Suburban or Similar', 'Premium SUV' Charge: '$302'/day
+'Type':'Mercedes Sprinter or Similar', 'Full Size Passenger Van' Charge: '$299'/day
+'Type':'Mercedes Sprinter or Similar', 'Full Size Passenger Van' Charge: '$299'/day
+'Type':'Cadillac Escalade,  Lincoln Navigator or Similar' Charge: '$349'/day

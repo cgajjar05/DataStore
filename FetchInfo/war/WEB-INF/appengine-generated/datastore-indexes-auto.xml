@@ -1,4 +1,11 @@
-<!-- Indices written at Mon, 12 May 2014 22:16:23 EDT -->
+<!-- Indices written at Sun, 18 May 2014 22:17:39 EDT -->
 
-<datastore-indexes/>
+<datastore-indexes>
 
+    <!-- Used 24 times in query history -->
+    <datastore-index kind="Location" ancestor="false" source="auto">
+        <property name="catid" direction="asc"/>
+        <property name="Lattitude" direction="asc"/>
+    </datastore-index>
+
+</datastore-indexes>
